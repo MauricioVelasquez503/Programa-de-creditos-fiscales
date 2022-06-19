@@ -1,0 +1,7 @@
+C:\Users\Mauricio Velasquez\source\repos\CCF\CCF\obj\Debug\net6.0-windows\CCF.csproj.AssemblyReference.cache
+C:\Users\Mauricio Velasquez\source\repos\CCF\CCF\obj\Debug\net6.0-windows\CCF.UI.FormCliente.resources
+C:\Users\Mauricio Velasquez\source\repos\CCF\CCF\obj\Debug\net6.0-windows\CCF.csproj.GenerateResource.cache
+C:\Users\Mauricio Velasquez\source\repos\CCF\CCF\obj\Debug\net6.0-windows\CCF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio Velasquez\source\repos\CCF\CCF\obj\Debug\net6.0-windows\CCF.AssemblyInfoInputs.cache
+C:\Users\Mauricio Velasquez\source\repos\CCF\CCF\obj\Debug\net6.0-windows\CCF.AssemblyInfo.cs
+C:\Users\Mauricio Velasquez\source\repos\CCF\CCF\obj\Debug\net6.0-windows\CCF.csproj.CoreCompileInputs.cache
